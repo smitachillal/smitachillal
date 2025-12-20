@@ -6,7 +6,7 @@
 
 - 🎓 I am pursuing a Master’s degree in Data Science at the University of Leicester, UK (completion: September 2026)
 - 📊 I am seeking Data Analyst or Junior Data Scientist roles in the UK
-- 💻 I have prior professional experience as a Java Developer with a strong technical foundation
+- 💻 I have prior professional experience as a Java Developer with a technical foundation
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/smitakshirsagar/" target="_blank">
