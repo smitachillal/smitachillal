@@ -12,6 +12,8 @@
 <a href="https://www.linkedin.com/in/smitakshirsagar/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30"/>
 </a>
+<a href="[https://www.linkedin.com/in/smitakshirsagar/](https://leetcode.com/u/SmitaKsagar/)" target="_blank">Leetcode</a>a>
+
 
 ### Languages and Tools:
 <p>
