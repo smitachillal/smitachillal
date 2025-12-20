@@ -9,7 +9,7 @@
 - 💻 I have prior professional experience as a Java Developer with a strong technical foundation
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/smitakshirsagar/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30"/>
 </a>
 
